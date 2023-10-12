@@ -1,0 +1,18 @@
+.container_big_card {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.big_card_photo img{
+    width: 100%;
+    min-width: 400px;
+}
+
+.big_card_description {
+    font-size: 20px;
+}
+
+.big_card_description p {
+    color: grey;
+}

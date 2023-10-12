@@ -1,0 +1,10 @@
+@media screen and (max-width: 1000px) {
+
+    .articles_main {
+        width: 40%;
+    }
+    
+    .articles_others {
+        width: 50%;
+    }
+}
