@@ -1,7 +1,7 @@
 <h1 align="center">angular-blog:</h1>
 
 ## 📲 View the project here
-<a href="angular-blog-nu-two.vercel.app">angular-blog-nu-two.vercel.app</a>
+<a href="https://angular-blog-nu-two.vercel.app">https://angular-blog-nu-two.vercel.app</a>
 
 ## 📖 About the project
 This project is part of a challenge from the DIO Bootcamp: Santander Bootcamp | Fullstack Developer. The project challenge was to build a news website and componentize its web elements.
